@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why and How I moved to Jekyll?"
+title:  "Welcome to Jekyll"
 date:   2019-11-29 12:38:58 +0100
 categories: jekyll meta
 ---
