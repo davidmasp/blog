@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a PhD student in bioinformatics with interests in data science
+and genetics/genomics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am based in Barcelona, currently working at the
+[IRB Barcelona](https://www.irbbarcelona.org/en) and
+the [Genome Data Science Lab](https://agendas.irbbarcelona.org/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find contact info in my landing [site](davidmasp.github.io)
 
-
-[jekyll-organization]: https://github.com/jekyll
