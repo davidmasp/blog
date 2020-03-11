@@ -3,7 +3,7 @@ layout: post
 title:  "Zotero Sync Folder"
 date:   2019-03-11 12:38:58 +0100
 categories: tutorial update
-related_image: /assets/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
+related_image: /blog/assets/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
 ---
 
 Photo by [Viktor Talashuk](https://unsplash.com/@viktortalashuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
